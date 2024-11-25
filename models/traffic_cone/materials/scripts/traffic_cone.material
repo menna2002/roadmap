@@ -1,0 +1,14 @@
+material traffic_cone/Diffuse
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture traffic_cone_texture.png
+      }
+    }
+  }
+}
+

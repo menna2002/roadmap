@@ -1,0 +1,7 @@
+# ROS/Gazebo specific
+build/
+devel/
+*.log
+*.bag
+*~
+

@@ -9,6 +9,13 @@ project(roadmap)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
+  gazebo_ros
+  geometry_msgs
+  rviz
+  std_msgs
+  tf
+  urdf
+  xacro
 )
 
 ## System dependencies are found with CMake's conventions
